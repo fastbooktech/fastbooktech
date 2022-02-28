@@ -1,4 +1,4 @@
-### Slowly Studying Programming, Building & Typing Fast👋
+### Slowly Study Programming, Building & Typing Fast👋
 
 <!--
 **fastbooktech/fastbooktech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
